@@ -1,3 +1,8 @@
+## Digram Plan
+
+![Alt text](![Alt text](https://user-images.githubusercontent.com/your-uploaded-image-link)
+
+
 ## AWS IoT JITP (One Time Setup)
 
 
